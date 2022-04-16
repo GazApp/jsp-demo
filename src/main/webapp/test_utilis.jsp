@@ -12,7 +12,7 @@
 <body>
 
 <h4>Let´s test :</h4>  
-<%=Utills.makeItLower("Bienvenido al mundo de java WEEEEEB !!! ") %>
+<%=Utills.makeItLower("Bienvenido al mundo de java WEEEEEB") %>
 
 </body>
 </html>
